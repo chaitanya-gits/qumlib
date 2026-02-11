@@ -119,13 +119,13 @@ Current Release: 0.1.0
 Distribution: qumlib-0.1.0-py3-none-any.whl
 ```
 ## Screenshots:
-```
+
 <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/621f999a-43c7-41f4-bd8d-f717a274a51d" />
 <img width="1901" height="767" alt="image" src="https://github.com/user-attachments/assets/660792ef-3ebe-4e1b-ac86-87a26034df04" />
 <img width="1802" height="397" alt="image" src="https://github.com/user-attachments/assets/b824f3b4-4ade-406a-b565-429ede99efdc" />
 <img width="1795" height="712" alt="image" src="https://github.com/user-attachments/assets/76f0a41e-a83d-42d3-9e16-789de2445224" />
 <img width="1811" height="348" alt="image" src="https://github.com/user-attachments/assets/9c7f4ecc-fe7d-4890-92d9-3798d4ba7403" />
-```
+
 
 
 
