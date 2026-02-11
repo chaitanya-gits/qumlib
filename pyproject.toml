@@ -1,5 +1,5 @@
 [project]
-name = "quantumlib"
+name = "qumlib"
 version = "0.1.0"
 description = "A minimal quantum computing simulation library"
 authors = [{ name="Your Name" }]

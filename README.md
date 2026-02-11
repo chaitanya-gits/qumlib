@@ -1,3 +1,3 @@
-QuantumLib is a lightweight quantum computing framework built in pure Python. It provides a statevector-based simulator, core single- and multi-qubit gate definitions, and a modular circuit abstraction designed for clarity, extensibility, and educational use.
+QumLib is a lightweight quantum computing framework built in pure Python. It provides a statevector-based simulator, core single- and multi-qubit gate definitions, and a modular circuit abstraction designed for clarity, extensibility, and educational use.
 
 The library focuses on explicit linear algebra operations over complex Hilbert spaces, avoiding hidden state and opaque backends. It is structured for clean separation between mathematical primitives, circuit construction, and simulation execution.
