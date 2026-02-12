@@ -25,22 +25,19 @@ CH = np.array([
     [1,0,0,0],
     [0,1,0,0],
     [0,0,1/np.sqrt(2), 1/np.sqrt(2)],
-    [0,0,1/np.sqrt(2), -1/np.sqrt(2)]
-], dtype=complex)
+    [0,0,1/np.sqrt(2), -1/np.sqrt(2)]], dtype=complex)
 
 CNOT = np.array([
     [1,0,0,0],
     [0,1,0,0],
     [0,0,0,1],
-    [0,0,1,0]
-], dtype=complex)
+    [0,0,1,0]], dtype=complex)
 
 CZ = np.array([
     [1,0,0,0],
     [0,1,0,0],
     [0,0,1,0],
-    [0,0,0,-1]
-], dtype=complex)
+    [0,0,0,-1]], dtype=complex)
 
 SWAP = np.array([
     [1,0,0,0],
@@ -56,5 +53,4 @@ CCX = np.array([
       [0,0,0,0,1,0,0,0],
       [0,0,0,0,0,1,0,0],
       [0,0,0,0,0,0,0,1],
-      [0,0,0,0,0,0,1,0]
-  ], dtype=complex)
+      [0,0,0,0,0,0,1,0]], dtype=complex)

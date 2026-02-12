@@ -1,8 +1,8 @@
 [project]
 name = "qumlib"
-version = "0.1.0"
+version = "0.1.1"
 description = "A minimal quantum computing simulation library"
-authors = [{ name="Your Name" }]
+authors = [{ name="Chaitanya" }]
 dependencies = ["numpy"]
 
 [build-system]
