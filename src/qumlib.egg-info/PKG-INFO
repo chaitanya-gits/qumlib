@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: quantumlib
-Version: 0.1.0
-Summary: A minimal quantum computing simulation library
-Author: Your Name
-Requires-Dist: numpy
